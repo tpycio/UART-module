@@ -31,8 +31,8 @@
 | Position                | Description                        |
 | ----------------------- | ---------------------------------- |
 | 1-3 & 2-4               | Bus: Serial 1                      |
-| 3-4 & 4-6               | Bus: Serial 2                      |
-| 1-3 & 2-4<br/>6-8 & 5-7 | Bus: Serial 1 with  CTS/RTS signal |
+| 3-5 & 4-6               | Bus: Serial 2                      |
+| 1-3 & 2-4<br/>5-7 & 6-8 | Bus: Serial 1 with  CTS/RTS signal |
 
 #### JP4 - UART interrupt select
 
